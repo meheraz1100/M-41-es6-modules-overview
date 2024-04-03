@@ -1,5 +1,8 @@
 import React from 'react';
 
+import './sunglasses.css'
+import '../Watch/Watch'
+
 const Sunglasses = () => {
     return (
         <div>
